@@ -1,0 +1,5 @@
+prompt usere for roof size
+prompt user for rainfall
+convert roof size to inches
+convert cubic inches to number of gallons
+output number of gallons
